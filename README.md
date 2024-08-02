@@ -42,3 +42,7 @@ The model is evaluated using various metrics, including accuracy, precision, rec
 
 ## Sample Predictions
 The trained model is tested with sample sentences to demonstrate its capability in predicting the sentiment of new, unseen reviews.
+
+## Link for Dataset
+Dataset consisted of IMdb Movie reviews
+Link: https://drive.google.com/file/d/1ZU7DMMtSrIppHGxgJV-pdforYeR65ruN/view?usp=drive_link
